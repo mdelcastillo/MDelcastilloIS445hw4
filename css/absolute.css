@@ -1,0 +1,80 @@
+﻿
+canvas {
+    position: absolute;
+    
+}
+
+
+body {
+
+    position: absolute;
+    width: 680px;
+    text-align: center;
+    color: white;
+
+   
+}
+
+header {
+    position:absolute;
+    background-color: blue;
+    width:680px;
+    padding-bottom: 20px;
+    top: 0px;
+    left: 0px;
+}
+
+nav {
+    position: absolute;
+    background-color: green;
+    width:680px;
+    padding-bottom: 10px;
+    top: 37px;
+    left: 0px;
+}
+
+article {
+    position: absolute;
+    background-color: pink;
+    width:450px;
+    padding-bottom: 20px;
+    top: 64px;
+    left: 0px;
+}
+
+section {
+    background-color: brown;
+    width:450px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+}
+
+aside {
+    position:absolute;
+    background-color: cyan;
+    width:230px;
+    padding-bottom: 172px;
+    left:450px;
+    top:64px;
+}
+
+footer {
+    position:absolute;
+    background-color: green;
+    width:680px;
+    padding-bottom: 20px;
+    top:253px;
+    left: 0px;
+
+}
+
+nav a {
+
+    color: white;
+    padding-bottom: 20px;
+}
+
+nav li {
+    display: inline;
+    padding-right:10px;
+}

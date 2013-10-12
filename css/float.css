@@ -1,6 +1,6 @@
 ﻿
 canvas {
-    position: static;
+    
     
 }
 
@@ -8,57 +8,65 @@ canvas {
 body {
 
     width: 680px;
-    text-align: center;
+
     color: white;
 
    
 }
 
+
 header {
     background-color: blue;
     width:680px;
-    padding-bottom: 20px;
+    min-height: 40px;
 }
 
 nav {
     background-color: green;
     width:680px;
-    padding-bottom: 10px;
+    min-height: 30px;
 }
 
 article {
+    float:left;
     background-color: pink;
     width:450px;
-    padding-bottom: 20px;
+    min-height: 460px;
+
 }
 
 section {
+
     background-color: brown;
     width:450px;
-    padding-bottom: 50px;
+    min-height: 200px;
     margin-top: 10px;
 }
 
 aside {
-    float: right;
+
+
+    float:left;
     background-color: cyan;
-    width:225px;
-    padding-bottom: 200px;
+    width: 230px;
+    min-height: 460px;
 }
 
 footer {
+    float:right;
     background-color: green;
     width:680px;
-    padding-bottom: 20px;
+    min-height: 30px;
 }
 
 nav a {
 
     color: white;
-    padding-bottom: 20px;
+    
 }
 
 nav li {
     display: inline;
     padding-right: 10px;
 }
+

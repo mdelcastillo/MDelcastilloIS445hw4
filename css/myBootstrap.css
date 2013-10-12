@@ -1,0 +1,68 @@
+﻿
+
+
+body {
+
+    width:680px;
+
+    color: white;
+
+   
+}
+
+
+header {
+    background-color: blue;
+
+    min-height: 40px;
+}
+
+nav {
+    background-color: green;
+
+    min-height: 30px;
+}
+
+article {
+
+    background-color: pink;
+
+    min-height: 460px;
+
+}
+
+section {
+
+    background-color: brown;
+
+    min-height: 200px;
+    margin-top: 10px;
+}
+
+aside {
+
+
+
+    background-color: cyan;
+
+    min-height: 460px;
+}
+
+footer {
+
+    background-color: green;
+
+    min-height: 30px;
+}
+
+nav a {
+
+    color: white;
+    
+}
+
+nav li {
+    display: inline;
+    padding-right: 10px;
+}
+
